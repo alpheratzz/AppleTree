@@ -1,0 +1,5 @@
+C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\bin\Debug\AppleTreeTest.exe
+C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\bin\Debug\AppleTreeTest.pdb
+C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.exe
+C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.pdb
