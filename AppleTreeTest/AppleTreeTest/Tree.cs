@@ -28,5 +28,17 @@ namespace AppleTreeTest
             Random rand = new Random();
             appnum += (uint)rand.Next() % 100;
         }
+
+        public void Shake()
+        {
+            Random rand = new Random();
+            if (appnum == 0)
+            {
+                Console.WriteLine("Error: there are no apples on the tree. Press any key to continue...");
+                Console.ReadKey(true);
+            }
+            else
+                appnum -= (uint)rand.Next() % (appnum + 1);
+        }
     }
 }
