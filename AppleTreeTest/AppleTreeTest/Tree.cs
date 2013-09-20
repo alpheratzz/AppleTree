@@ -8,25 +8,40 @@ namespace AppleTreeTest
     class Tree
     {
         private uint appnum;
+        private uint blossomnum;
         public uint AppleNum
         {
             get { return appnum; }
         }
 
+        public uint BlossomNum
+        {
+            get { return blossomnum; }
+        }
+
         public Tree(uint n)
         {
             appnum = n;
+            blossomnum = 0;
         }
 
         public Tree()
         {
-            appnum = 0;
+            appnum = blossomnum = 0;
         }
 
         public void Grow()
         {
-            Random rand = new Random();
-            appnum += (uint)rand.Next() % 100;
+            if (blossomnum == 0)
+            {
+                Console.WriteLine("Error: there are no free blossoms to fructify. Press any key to continue...");
+                Console.ReadKey(true);
+            }
+            else
+            {
+                appnum += blossomnum;
+                blossomnum = 0;
+            }
         }
 
         public void Shake()
@@ -39,6 +54,12 @@ namespace AppleTreeTest
             }
             else
                 appnum -= (uint)rand.Next() % (appnum + 1);
+        }
+
+        public void Bloom()
+        {
+            Random rand = new Random();
+            blossomnum += (uint)rand.Next() % 100;
         }
     }
 }
