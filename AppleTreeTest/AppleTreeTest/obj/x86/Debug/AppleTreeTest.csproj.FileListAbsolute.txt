@@ -3,3 +3,8 @@ C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTre
 C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.csprojResolveAssemblyReference.cache
 C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.exe
 C:\Users\Томас\documents\visual studio 2010\Projects\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.pdb
+c:\Users\Томас\repos1\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.exe
+c:\Users\Томас\repos1\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.pdb
+c:\Users\Томас\repos1\AppleTreeTest\AppleTreeTest\bin\Debug\AppleTreeTest.exe
+c:\Users\Томас\repos1\AppleTreeTest\AppleTreeTest\bin\Debug\AppleTreeTest.pdb
+c:\Users\Томас\repos1\AppleTreeTest\AppleTreeTest\obj\x86\Debug\AppleTreeTest.csprojResolveAssemblyReference.cache
